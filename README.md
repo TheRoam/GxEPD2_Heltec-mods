@@ -1,4 +1,7 @@
-# GxEPD2
+# GxEPD2-Heltec mod
+(based on original GxEPD2 library, I only add a new driver file for 1.54" epaper module by Heltec Automation:
+https://heltec.org/project/154-e-ink/ )
+
 ## Arduino Display Library for SPI E-Paper Displays
 
 - With full Graphics and Text support using Adafruit_GFX
